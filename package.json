@@ -1,0 +1,8 @@
+{
+  "name": "backlog2slack",
+  "version": "0.0.2",
+  "dependencies": {
+    "diff": "^3.5.0",
+    "request": "^2.87.0"
+  }
+}
